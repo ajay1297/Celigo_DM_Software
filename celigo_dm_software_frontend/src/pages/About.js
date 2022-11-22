@@ -51,7 +51,7 @@ const About = () => {
                             color="text.primary"
                             gutterBottom
                             >
-                            The Team
+                            Meet The Team
                         </Typography>
                     </Container>
                 </Box>
